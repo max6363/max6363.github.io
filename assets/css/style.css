@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #1052a2;
+  color: #0F1F46;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -175,7 +175,7 @@ blockquote * {
 /* main nav */
 
 nav {
-  background: white;
+  background: #FCFCFC;
   box-shadow: none;
   height: 0;
 }
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #1E2838 repeat;
   position: relative;
 }
 
@@ -549,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #1052a2 !important;
+  color: #0F1F46 !important;
 }
 
 /* .teal-text {
@@ -559,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #1052a2 !important;
+  background-color: #0F1F46 !important;
 }
 
 /* .teal {
