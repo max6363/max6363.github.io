@@ -58,9 +58,13 @@
   color: #0077b5;
 }
 
-.angellist {
-  color: grey;
+.medium {
+  color: black;
 }
+
+/* .angellist {
+  color: grey;
+} */
 
 .icon-btn:hover {
   transform: scale(1.10);
@@ -71,9 +75,9 @@
   background-color: #0077b5;
 }
 
-.angellist:hover {
+/* .angellist:hover {
   background-color: grey;
-}
+} */
 
 .github:hover {
   background-color: black;
@@ -320,7 +324,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #C0C0C0 repeat;
+  background: #b5e7dc repeat;
   position: relative;
 }
 
